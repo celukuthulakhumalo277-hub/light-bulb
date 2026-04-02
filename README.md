@@ -1,2 +1,1 @@
-# light-bulb
-my first
+# initial commit
